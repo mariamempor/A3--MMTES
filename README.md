@@ -1,7 +1,7 @@
 Olá, 👋
 Repositório dedicado às entregas da A3 da UC de Modelos, Métodos e Técnicas da Engenharia de Software.
 
-🚀 Integrantes do grupo 7: 
+🚀 Integrantes do grupo 7:   
 Maria Eduarda Medeiro Porto	824144948  
 
 Matheus Alves Santana	824144952  
